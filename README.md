@@ -10,7 +10,7 @@
 
 I am a full-stack developer and current student at UT Austin.
 
-- 🔭 Currently contributing to full-stack web applications for WXLLSPACE.
+- 🔭 Currently contributing to full-stack web applications for Texas Capital Collective.
 
 - 🌱 Learning iOS development and various JS frameworks.
 
