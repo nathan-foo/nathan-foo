@@ -14,7 +14,7 @@ I am a full-stack developer and current student at UT Austin.
 
 - 🌱 Learning iOS development and various JS frameworks.
 
-- ⚡️ In my free time, I love to animate, play the guitar, and build cool things!
+- ⚡️ In my free time, I love to swim, play the guitar, and build cool things!
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathan-foo/)
 
