@@ -10,9 +10,9 @@
 
 I am a full-stack developer and current student at UT Austin.
 
-- 🔭 Currently contributing to full-stack web applications for various organizations.
+- 🔭 Currently developing software @ Liberty Mutual Insurance.
 
-- 🌱 Learning iOS development and various JS frameworks.
+- 🌱 Learning new frameworks and skills every day.
 
 - ⚡️ In my free time, I love to swim, play the guitar, and build cool things!
 
