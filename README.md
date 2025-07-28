@@ -10,7 +10,7 @@
 
 I am a full-stack developer and current student at UT Austin.
 
-- 🔭 Currently developing software @ Liberty Mutual Insurance.
+- 🔭 Currently building software @ Liberty Mutual Insurance.
 
 - 🌱 Learning new frameworks and skills every day.
 
