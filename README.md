@@ -100,5 +100,4 @@ I am a full-stack developer and current student at UT Austin.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nathan-foo&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-foo&layout=compact&card_width=495&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
