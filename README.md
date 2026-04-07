@@ -10,9 +10,9 @@
 
 I am a full-stack developer and current student at UT Austin.
 
-- 🔭 Currently building software @ Longhorn Developers.
+- 🔭 Currently building @ Longhorn Developers.
 
-- 🌱 Learning new frameworks and skills every day.
+- 🌱 Learning new things every day.
 
 - ⚡️ In my free time, I love to swim, play the guitar, and build cool things!
 
