@@ -10,7 +10,7 @@
 
 I am a full-stack developer and current student at UT Austin.
 
-- 🔭 Currently building @ Longhorn Developers.
+- 🔭 Currently building @ IBM.
 
 - 🌱 Learning new things every day.
 
@@ -32,7 +32,6 @@ I am a full-stack developer and current student at UT Austin.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 </div>
 
 #### I'm proficient in the following languages:
@@ -44,7 +43,6 @@ I am a full-stack developer and current student at UT Austin.
 - C/C++ (Systems)
 - Java (Backend)
 - HTML/CSS (Frontend)
-- R (Data Analysis)
 
 ### 📚 Frameworks & Libraries
 
