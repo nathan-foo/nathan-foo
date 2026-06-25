@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am a full-stack developer and current student at UT Austin.
+I am a full-stack software engineer and current student at UT Austin with interests in cloud, AI, and distributed systems.
 
 - 🔭 Currently building @ IBM.
 
